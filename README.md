@@ -8,7 +8,7 @@
 
 
 ## Detailed Description
-This application is testbed for learning C# .
+This application is a testbed for learning C# .
 
 ## KNOWN BUGS
 - this application HAS NOT been tested %100 nor will it as its a digital counter or table in it current state
@@ -51,7 +51,7 @@ This means .NET and C# are installed and our computer recognizes the dotnet comm
 
 
 ## Run Tests
-Open Terminal, navigate into the "Bakery.Tests/" folder in the command line
+Open Terminal, navigate into the "no test files yet" folder in the command line
 Run the following command $"dotnet restore" to retrieve and install the packages we listed in .csproj in our application.
 Then run the following command: $ dotnet test.
 
